@@ -1,6 +1,7 @@
 package net.soproxi.cultcraft.setup;
 
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemFrameItem;
 import net.minecraftforge.fml.RegistryObject;
 import net.soproxi.cultcraft.CultCraft;
 import net.soproxi.cultcraft.setup.items.JenItem;
